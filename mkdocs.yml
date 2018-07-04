@@ -1,0 +1,13 @@
+site_name: East Greenville Beer Bash
+site_favicon: /images/favicon.ico
+dev_addr: 0.0.0.0:8000
+theme_dir: custom_cinder
+extra_css:
+- css/extra.css
+- http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css
+strict: true
+markdown_extensions:
+  - markdown_include.include
+use_directory_urls: false
+pages:
+    - Beer: index.md
