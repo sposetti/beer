@@ -4,10 +4,18 @@
 - Benjamin Franklin
 </h1>
 
-## 2017 - What's Up?
+## 2017 - Beer Madness - IPA Region
+
+{!docs/2017.md!}
 
 ## 2016 - Beer Madness – German Region
+
+{!docs/2016.md!}
+
 ## 2015 - (Un)Happy Anniversary
+
+{!docs/2015.md!}
+
 ## 2014 - Year of the Can
 
 {!docs/2014.md!}
