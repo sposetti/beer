@@ -9,6 +9,9 @@
 ## 2016 - Beer Madness – German Region
 ## 2015 - (Un)Happy Anniversary
 ## 2014 - Year of the Can
+
+{!docs/2014.md!}
+
 ## 2013 - Year of the IPA (East Coast)
 
 {!docs/2013.md!}
