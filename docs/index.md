@@ -4,6 +4,10 @@
 - Benjamin Franklin
 </h1>
 
+## 2018 - Best of Phoenixville IPA
+
+{!docs/2018.md!}
+
 ## 2017 - Beer Madness - IPA Region
 
 {!docs/2017.md!}
