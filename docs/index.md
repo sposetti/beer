@@ -4,6 +4,14 @@
 - Benjamin Franklin
 </h1>
 
+## 2020 - Year of Cheap Beer
+
+{!docs/2020.md!}
+
+## 2019 - Outlook Hazy
+
+{!docs/2019.md!}
+
 ## 2018 - Best of Phoenixville IPA
 
 {!docs/2018.md!}
