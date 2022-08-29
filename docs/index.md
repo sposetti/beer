@@ -4,6 +4,10 @@
 - Benjamin Franklin
 </h1>
 
+## 2021 - Helles Yea! Year of the Lager
+
+{!docs/2021.md!}
+
 ## 2020 - Year of Cheap Beer
 
 {!docs/2020.md!}
