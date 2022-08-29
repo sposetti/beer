@@ -4,6 +4,10 @@
 - Benjamin Franklin
 </h1>
 
+## 2022 - Poppin Pils! Year of the Pilsner
+
+{!docs/2022.md!}
+
 ## 2021 - Helles Yea! Year of the Lager
 
 {!docs/2021.md!}
